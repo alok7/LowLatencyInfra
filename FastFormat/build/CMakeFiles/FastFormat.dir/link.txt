@@ -1,0 +1,1 @@
+/usr/bin/c++  -pipe -std=c++17 -flto -fno-fat-lto-objects CMakeFiles/FastFormat.dir/main.cpp.o -o FastFormat 
